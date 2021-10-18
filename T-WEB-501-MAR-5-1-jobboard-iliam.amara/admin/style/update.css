@@ -1,0 +1,70 @@
+/* People */
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+
+form {
+    text-align: center;
+    padding: 5vh 50vh 10vh 50vh;
+    font-size: 3vh;
+}
+
+.form {
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    border-radius: 1vh;
+}
+
+.content {
+    margin-bottom: 3vh;
+    justify-content: center;
+    display: grid;
+    flex-direction: column;
+}
+
+button {
+    border:none;
+    transition: 0.2s;
+    border-radius: 1vh;
+    padding: 1vh 5vh 1vh 5vh;
+}
+
+button:hover {
+    background-color: #7e7e7e;
+    color: white;
+}
+
+.sex {
+    width: 10vh;
+}
+
+input {
+    text-align: center;
+}
+
+.alert {
+    text-align: center;
+    margin-left: 30vh;
+    margin-right: 30vh;
+    margin-top: 10vh;
+}
+
+
+@media screen and (max-width: 767px) {
+    form {
+        padding: 0vh;
+    }
+
+    .form {
+        margin-left: 3vh;
+        margin-right: 3vh;
+    }
+
+    .alert {
+        text-align: center;
+        margin-left: 10vh;
+        margin-right: 10vh;
+        margin-top: 5vh;
+    }
+    
+}

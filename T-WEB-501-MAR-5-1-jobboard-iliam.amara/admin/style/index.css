@@ -1,0 +1,63 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #f0f0f0;
+    color: #f0f0f0;
+}
+
+.contain{
+    text-align: center;
+    background-color: #3f3f3f;
+    margin: 25vh;
+    margin-top: 10vh;
+    padding: 10vh;
+    border-radius: 1vh;
+}
+
+.title {
+    margin-bottom: 3vh;
+}
+
+.input {
+    font-size: 3vh;
+    margin-bottom: 3vh;
+}
+
+input {
+    border-radius: 1vh;
+    border:none;
+    width: 40vh;
+}
+
+button {
+    border: none;
+    background-color: #f0f0f0;
+    height: 5vh;
+    width: 25vh;
+    border-radius: 1vh;
+    transition: 0.2s;
+}
+
+button:hover {
+    background-color: #E4E675;
+    color: #f0f0f0;
+}
+
+.form .alert {
+    margin-top: 5vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+
+@media screen and (max-width: 768px) {
+    .contain {
+        margin-top: 20vh;
+        margin-left: 5vh;
+        margin-right: 5vh;
+        padding-bottom: 5vh;
+    }
+
+    .form .alert {
+        margin-left: 0vh;
+        margin-right: 0vh;
+    }
+}

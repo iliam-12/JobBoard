@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: #9FA0A8;
+    color: white;
+    padding: 3vh 0vh 3vh 2vh;
+    border: 10px;
+}
+
+tr {
+    border-bottom: solid 0.1vh black;
+}
+
+td {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 2vh;
+}
+
+/* create css */
+
+.modal-body form {
+    text-align: center;
+    font-size: 3vh;
+}
+
+.modal-body .form {
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    border-radius: 1vh;
+}
+
+.modal-body .form .content {
+    margin-bottom: 3vh;
+    justify-content: center;
+    display: grid;
+    flex-direction: column;
+}
+
+/* Add page */
+
+.descript p {
+    height: 6vh;
+    overflow:hidden;
+}
+.descript {
+    width: 60vh;
+}

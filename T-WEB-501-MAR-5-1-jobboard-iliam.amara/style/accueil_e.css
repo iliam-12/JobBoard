@@ -1,0 +1,56 @@
+.centre-bloc {
+    width: 100%;
+}
+.centre-bloc h2 {
+    text-align: center;
+}
+.inde_advert_e {
+    border-radius: 5px;
+    background: #EEEEEE;
+    box-shadow:  1px 1px 12px #eeefa893,
+             -8px -8px 22px #111;
+    width: fit-content;
+    max-width: 800px;
+    height: fit-content;
+    padding: 3.5vh;
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.find_form_e input:not(.type-contrat) {
+    padding-right: 2vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left: 2vh;
+    margin-right: 0px;
+    width: 100%;
+    float: right;
+    border: none;
+    background: #f0f0f0;
+    box-shadow:  5px 5px 11px #e6e6e6,
+             -5px -5px 11px #fafafa;
+}
+div form div div label {
+    white-space: nowrap;
+}
+form div .row {
+    height: fit-content;
+}
+.all_annonce_e {
+    margin-top: -20vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5%;
+}
+.annonce_e {
+    border-radius: 50px;
+    background: #f0f0f0;
+    box-shadow:  8px 8px 22px #c5c5c5,
+             -8px -8px 22px #ffffff;
+    padding: 3.5vh;
+    min-width: 200px;
+    margin: 10vh 2vw;
+    justify-content: center;
+}

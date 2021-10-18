@@ -1,0 +1,36 @@
+.profile h1 {
+    margin-top: 4%;
+    text-align: center;
+    color: #EEEFA8;
+    font-size: 2.5em;
+}
+.div-profile {
+    display: flex;
+    justify-content: center;
+    margin-top: -6%;
+}
+.div-profile .find_form input {
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left: 2vh;
+    margin-right: 0px;
+    border: none;
+    border-radius: 5px;
+    background: #fafafa;
+    box-shadow:  1px 1px 6px #22222277,
+             -1px -1px 6px #22222293;
+} 
+form div {
+    margin: 3vh;
+}
+form div {
+    display: grid;
+    flex-direction: column;
+}
+label {
+    margin: 5px;
+    color: #EEEFA8;
+}
+form input {
+    text-align: center;
+}

@@ -1,0 +1,93 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    color: #3f3f3f;
+    background-color: #525252;
+}
+.searchBar {
+    margin-bottom: 10vh;
+}
+
+.title {
+    margin-top: 3%;
+    text-align: center;
+    color: #EEEFA8;
+}
+
+.container {
+    justify-content: center;
+    margin-bottom: 3vh;
+    color: #EEEFA8;
+    padding-top: 2%;
+    width: 50vw;
+    min-width: 300px;
+}
+
+.container form{
+    padding: 5%;
+    border-radius: 15px;
+    background: #f0f0f0;
+    box-shadow:  1px 1px 12px #eeefa893,
+                -8px -8px 22px #11111193;
+}
+
+.container button {
+    z-index: 2;
+    transition: 0.2s;
+    border:none;
+    padding: 10px;
+    color: white;
+    border-radius: 50px;
+    background-color: transparent;
+}
+.container button:not(.content button) {
+    background-color: #4E4F56;
+}
+.container button:not(.content button):hover{
+    background-color: #8d8e96;
+}
+.container button:hover{
+    background-color: transparent;
+}
+.container a {
+    vertical-align: middle;
+    margin-top: 10px; 
+    position: absolute;
+    color: #3f3f3f;
+    text-decoration: none;
+}
+
+.container a:hover {
+    text-decoration: underline;
+}
+.back {
+    margin-top: 2vh;
+    text-align: center;
+}
+
+.back a {
+    color: #4E4F56;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.back a:hover {
+    font-size: 2.5vh;
+    color: #4E4F56;
+    text-decoration: none;
+}
+.color_h {
+    color: #3f3f3f;
+}
+input[type="checkbox"], input[type="radio"] {
+    filter: invert(80%) hue-rotate(18deg) brightness(1.7);
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+  }
