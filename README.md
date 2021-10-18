@@ -18,3 +18,11 @@ https://www.canva.com/design/DAEs_3_dRGw/URqeHWxR9VTYPnYXNuKLtw/view?utm_content
 ## What does the Job board looks like :
 
 ![Jobboard](https://user-images.githubusercontent.com/65111947/137799827-0792cb72-cf28-4b49-bcbd-f5a41cca775f.PNG)
+
+![poster](https://user-images.githubusercontent.com/65111947/137804344-f6a67240-23b4-4ce5-9152-cd9b0bce4da7.PNG)
+
+![annonce_e](https://user-images.githubusercontent.com/65111947/137804356-eebb12cf-caaa-44bd-acfd-8de25f4a0068.PNG)
+
+![poster-2](https://user-images.githubusercontent.com/65111947/137804386-d4b98474-174a-4905-8cf2-6966fc49b47d.PNG)
+
+![poster3](https://user-images.githubusercontent.com/65111947/137804407-c684d239-3453-47a4-8c5a-fb9dd7bd8328.PNG)
