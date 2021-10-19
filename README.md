@@ -1,7 +1,6 @@
 # JobBoard
 
 Job research site
-
 PDF available
 
 #### Usage:
